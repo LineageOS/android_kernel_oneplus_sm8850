@@ -35,6 +35,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ca946f0_9bcef7e9",
+        "filename": "drivers/firmware/qcom/qcom_scm.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 2969,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-09-22T10:01:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "8c62755f_b74815f9",
+      "revId": "11fb36e8ce47792193b2648886519d547d95c46f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "4f74865a_de6ba3da",
@@ -52,6 +70,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "bcc2100d_5c4c3ef9",
+        "filename": "drivers/input/misc/qcom-hv-haptics.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1142,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-09-22T10:01:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "4f74865a_de6ba3da",
+      "revId": "11fb36e8ce47792193b2648886519d547d95c46f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "f6ad4e68_9fb402ed",
@@ -65,6 +101,24 @@
       "writtenOn": "2026-09-22T08:36:47Z",
       "side": 1,
       "message": "delete temp as it says",
+      "revId": "11fb36e8ce47792193b2648886519d547d95c46f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "382e3dfa_ed732baf",
+        "filename": "drivers/input/misc/qcom-hv-haptics.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 3235,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-09-22T10:01:47Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f6ad4e68_9fb402ed",
       "revId": "11fb36e8ce47792193b2648886519d547d95c46f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
