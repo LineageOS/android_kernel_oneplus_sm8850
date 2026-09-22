@@ -18,6 +18,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b30afac5_a2cadb4b",
+        "filename": "arch/arm64/configs/consolidate.fragment",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-09-22T10:49:50Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "c1ef5ac6_fa16f8b4",
+      "revId": "eff00b193c17b412af2c8043bd9d96b448c28baa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "e6c60e1e_6f2ae735",
@@ -35,6 +53,24 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "78751f16_9a0b519b",
+        "filename": "build.config.msm.canoe",
+        "patchSetId": 2
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-09-22T10:49:50Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "e6c60e1e_6f2ae735",
+      "revId": "eff00b193c17b412af2c8043bd9d96b448c28baa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "70d2ffcc_b918eb21",
@@ -48,6 +84,24 @@
       "writtenOn": "2026-09-22T10:13:23Z",
       "side": 0,
       "message": "Can we restore the CLO default",
+      "revId": "eff00b193c17b412af2c8043bd9d96b448c28baa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e5f4ad3d_f6b4b720",
+        "filename": "kleaf-scripts/targets/canoe.bzl",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-09-22T10:49:50Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "70d2ffcc_b918eb21",
       "revId": "eff00b193c17b412af2c8043bd9d96b448c28baa",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
