@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "480a2c7d_0330f410",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30975
+      },
+      "writtenOn": "2026-09-30T18:27:22Z",
+      "side": 1,
+      "message": "Boots fine on infiniti with the latest CLO tags",
+      "revId": "3ab8955f0fa88d4ffaa7ab42659e74fd9713f489",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
